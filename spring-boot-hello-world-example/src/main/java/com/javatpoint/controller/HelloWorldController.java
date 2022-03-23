@@ -7,7 +7,7 @@ public class HelloWorldController
 @RequestMapping("/")
 public String hello() 
 {
-  // Comment to check jenkins functionality
+  // Comment to check jenkins functionality.
 return "Hello javaTpoint";
 }
 }
